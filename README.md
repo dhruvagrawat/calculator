@@ -1,4 +1,4 @@
-# Calculator App(https://main--curious-florentine-7fdb90.netlify.app)
+# Calculator App
 
 A simple, efficient, and user-friendly basic calculator app built with HTML, CSS, and JavaScript. Perform quick calculations effortlessly with this calculator.
 
@@ -9,6 +9,8 @@ A simple, efficient, and user-friendly basic calculator app built with HTML, CSS
 - Decimal point for precise calculations.
 - Responsive design for different screen sizes.
 
+## Demo
+website (https://main--curious-florentine-7fdb90.netlify.app)
 ## How to Use
 
 1. Clone this repository to your local machine.
