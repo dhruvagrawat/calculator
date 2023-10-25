@@ -38,6 +38,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-Created with Care by [Dhruv](https://github.com/Rj1221)
+Created with Care by [Dhruv](https://github.com/dhruvagrawat)
 
 ---
